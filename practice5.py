@@ -4,29 +4,29 @@ words = {
     "kursi": "chair",
     "billi": "Cat"
 }
-# word = input("Enter the word you want meaning of: ")
-# print(words[word])
+word = input("Enter the word you want meaning of: ")
+print(words[word])
 
 
 #2 write a program to input eight numbers from the user and display all the unique numbers(once).
 s = set()
-# n = input("Enter number: ")
-# s.add(int(n))
-# n = input("Enter number: ")
-# s.add(int(n))
-# n = input("Enter number: ")
-# s.add(int(n))
-# n = input("Enter number: ")
-# s.add(int(n))
-# n = input("Enter number: ")
-# s.add(int(n))
-# n = input("Enter number: ")
-# s.add(int(n))
-# n = input("Enter number: ")
-# s.add(int(n))
-# n = input("Enter number: ")
-# s.add(int(n))
-# print(s)
+n = input("Enter number: ")
+s.add(int(n))
+n = input("Enter number: ")
+s.add(int(n))
+n = input("Enter number: ")
+s.add(int(n))
+n = input("Enter number: ")
+s.add(int(n))
+n = input("Enter number: ")
+s.add(int(n))
+n = input("Enter number: ")
+s.add(int(n))
+n = input("Enter number: ")
+s.add(int(n))
+n = input("Enter number: ")
+s.add(int(n))
+print(s)
 
 
 #3 Can we have a set with 18 (int) and '18'(str) as a value in it ?
